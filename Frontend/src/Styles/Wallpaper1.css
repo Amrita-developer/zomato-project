@@ -1,0 +1,49 @@
+.card-img
+{
+    width: 337px;
+    height:77px;
+    
+}
+ .bg-img {
+  /* The image used */
+  background-image: url("../Assets/food-img.jpg");
+  min-height: 420px;
+
+  /* Center and scale the image nicely */
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-size:cover;
+
+  /* Needed to position the navbar */
+  position: relative;
+}
+
+
+
+ .right-search-bar .form-control1 {
+  padding-left: 2.375rem;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  width:30vw;
+  height:55px;
+  font-size:17px;
+  margin-top: 20px;
+  border:none;
+}
+
+
+.left-search-bar .form-control2 {
+  padding-left: 17px;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  width:230px;
+  height:55px;
+  font-size:17px;
+  text-align: left;
+  margin-top: 20px;
+  border:none;
+}

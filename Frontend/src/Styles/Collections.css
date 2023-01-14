@@ -1,0 +1,30 @@
+.collection h1
+{
+    text-align: left;
+}
+.collection-subtitle h4
+{
+    text-align: left; 
+    font-weight: normal;
+}
+
+.collectioncard
+{
+    position: relative;
+}
+
+.collectioncard img{
+    width:300px;
+    height:340px; 
+   
+ }
+ .collectioncard-img-overlay .card-title-bottom {
+    position: absolute;
+    left:10px;
+    bottom:30px;
+ }
+ .collectioncard-img-overlay  .card-text-bottom {
+    position: absolute;
+    left:10px;
+    bottom:0px;
+ }

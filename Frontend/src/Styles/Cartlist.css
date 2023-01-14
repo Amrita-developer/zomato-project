@@ -1,0 +1,64 @@
+.shop-cart
+{
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.overlay{
+    margin-top: 40px;
+    display:flex;
+    justify-content:space-around;
+    border-bottom: 2px solid skyblue;
+    padding-bottom: 5px;
+   width: 1000px;
+}
+
+
+.cart-img{
+    
+     margin-left: 100px;
+    width: 250px;
+}
+ .item-name 
+{
+   text-align: left;
+   width: 250px;
+   font-size: 20px;
+   
+}
+.item-quantity
+{
+    width: 250px;
+}
+.item-quantity-minus
+{
+    margin-right: 4px;
+}
+.item-quantity-plus
+{
+    margin-right: 4px;
+}
+.item-cost
+{
+   
+    width: 250px;
+}
+.total-cost
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.total-cost p
+{
+font-size: 25px;
+font-weight: bold;
+}
+.total-cost .pay-btn  
+{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 30px;
+    border-radius: 6px;
+}

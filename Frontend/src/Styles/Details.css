@@ -1,0 +1,85 @@
+.header-image img
+{
+  
+   min-width: 100%;
+}
+
+.restaurant-title
+{
+    font-size: 40px;
+}
+
+.cart
+{
+  
+   display:flex;
+   flex-wrap: wrap; 
+   justify-content:flex-end;
+}
+.cart .cart1
+{
+    margin-right: 15px; cursor: pointer;
+}
+ span .count a{
+    text-decoration: none;
+}
+
+.overview u
+{
+    font-size: 25px;
+   text-decoration: none;
+  
+}
+.contact u{
+    font-size: 25px;
+   text-decoration: none;
+}
+.logo-details img
+{
+    margin-top: 10px;
+    height:40px;
+   width: 100px;
+}
+
+ 
+  /* Navbar links */
+  .navbar-nav ul li a {
+    
+     color: #0b0b0b; 
+   
+    text-decoration: none;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+.rating{
+    background-color: rgb(45, 88, 2);
+    color:white;
+    width: 65px;
+    height: 25px;
+    border-radius: 2px;
+
+}
+.item-card
+{
+   width:200px;
+   height: 200px;
+   
+  
+}
+/* .item-card:hover
+{
+    transform: scale(1.1);
+} */
+.item-card img
+{
+    width:200px;
+    height:150px ;
+}
+.item-card a
+{
+    text-decoration: none;
+  
+}
+.card-rating{
+    padding-left:38px
+}

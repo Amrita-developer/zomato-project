@@ -1,0 +1,22 @@
+[
+    {
+      "location_id": "1",
+      "location_name": "Mumbai"
+    },
+    {
+      "location_id": "2",
+      "location_name": "Pune"
+    },
+    {
+      "location_id": "3",
+      "location_name": "Nasik"
+    },
+    {
+        "location_id": "4",
+        "location_name": "Aurangabad"
+      },
+      {
+        "location_id": "4",
+        "location_name": "Banglore"
+      }
+  ]

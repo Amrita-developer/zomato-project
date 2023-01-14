@@ -1,0 +1,66 @@
+.bg-img{
+    background-image: url('../Assets/food-img.jpg');
+    min-height: 420px;
+    max-width: 100%;
+    background-position: center;
+    background-size: cover;
+
+
+}
+.user-name{
+  font-size: 23px;
+  margin-top: 13px;
+  font-weight: bold;
+}
+.cart{
+  font-size: 23px;
+  margin-top: 13px;
+  font-weight: bold;
+}
+
+.navbar {
+    overflow: hidden;
+    
+  }
+ 
+  /* Navbar links */
+  .navbar a {
+    float: left;
+     color: #f2f2f2; 
+    text-align: center;
+    padding: 14px 17px;
+    text-decoration: none;
+    font-size: 28px;
+    
+  }
+
+.location-searchbar .form-control
+{ 
+    padding-left: 17px;
+    margin-left: 40px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    width:17vw;
+    height:55px;
+    font-size:17px;
+    text-align: left;
+    margin-top: 20px;
+    border:none;
+}
+
+.restaurant-searchbar .form-control1
+{ 
+    padding-left: 18px;
+    margin-right: 250px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    width:30vw;
+    height:55px;
+    font-size:17px;
+    margin-top: 20px;
+    border:none;
+}
